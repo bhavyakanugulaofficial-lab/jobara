@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.npm/
+.vercel/
+vercel-upload/
+*.zip
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
